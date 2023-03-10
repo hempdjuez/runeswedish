@@ -1,2 +1,2 @@
-# Runeswedish
-A translation plugin for playing runescape in swedish
+# RuneSwedish
+A basic translation plugin for playing runescape in swedish

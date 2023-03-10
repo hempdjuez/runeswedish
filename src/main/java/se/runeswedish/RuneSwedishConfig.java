@@ -8,12 +8,12 @@ import net.runelite.client.config.ConfigItem;
 public interface RuneSwedishConfig extends Config
 {
 	@ConfigItem(
-		keyName = "greeting",
-		name = "Välkomst Meddelande",
-		description = "Det här meddelandet visas när en användare loggar in"
+		keyName = "",
+		name = "",
+		description = ""
 	)
 	default String greeting()
 	{
-		return "Hello";
+		return "";
 	}
 }
