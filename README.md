@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Runeswedish
+A translation plugin for playing runescape in swedish
